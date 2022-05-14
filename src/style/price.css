@@ -1,0 +1,9 @@
+#price-block {
+  padding: 15px;
+
+}
+
+#price-block > p {
+  text-align: center;
+  font-size: 24px;
+}

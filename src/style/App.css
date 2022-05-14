@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+.App {
+    width: 100%;
+    max-width: 860px;
+    margin: 15px auto;
+
+    font-family: 'Kalam', cursive;
+}
+
+#select-country-initial {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+}
